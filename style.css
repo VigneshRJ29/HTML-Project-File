@@ -1,0 +1,31 @@
+#flex-container{
+    display: flex;
+    
+}
+#side{
+    background-color: rgb(29, 46, 144);
+    flex: 40%;
+    border: 2px solid white;
+    
+    
+}
+h1{
+  padding-top: 250px;
+  color: white;
+  margin-left: 50px;
+}
+body{
+  border: 2% solid white;
+}
+#main{
+  background-color:#84b45e ;
+  padding-left: 10px;
+  border:2px solid white;
+  flex: 50%;
+}
+input{
+ 
+  border: 2px solid#555;
+  padding-top: 10px;
+  padding-left: 10px;
+}
